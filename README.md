@@ -5,7 +5,7 @@
 # 2024.10.24
 [Hiera](https://github.com/facebookresearch/hiera)论文看了好久，最终卡在图4，发现Hiera与MAE的关系机器紧密，[MAE](https://openaccess.thecvf.com/content/CVPR2022/html/He_Masked_Autoencoders_Are_Scalable_Vision_Learners_CVPR_2022_paper)是何凯明CVPR2022的作品(稍微看了一眼，好像没给代码，难道只是一种训练方法？)，明天先读一下MAE补充一下背景知识吧，ViT也有点忘了，明天小看一下。
 # 2024.10.26
-[MAE论文图1-**架构**](https://github.com/aloha32/paper/blob/main/MAE-P1.jpg)初次看根本看不懂，什么mask，什么token，什么decoder，根本搞不懂。问了GPT恍然大悟。
+！[MAE论文图1-**架构**](https://github.com/aloha32/paper/blob/main/MAE-P1.jpg)初次看根本看不懂，什么mask，什么token，什么decoder，根本搞不懂。问了GPT恍然大悟。
 ```
 图1展示了**MAE（Masked Autoencoder）架构**的流程，主要分为三个部分：输入、编码器-解码器、输出目标。下面详细解释图中各部分的流程：
 
