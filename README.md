@@ -31,7 +31,7 @@
 图1展示了MAE如何通过随机掩盖大部分图像块，并训练编码器-解码器架构来重建图像。这种方法有助于模型学习全局特征，并能够在图像自监督学习中实现良好的性能。
 ```
 # 2024.10.27
-![MAE论文实现细节]（https://github.com/aloha32/paper/blob/main/MAE-SI.jpg）
+![MAE论文实现细节](https://github.com/aloha32/paper/blob/main/MAE-SI.jpg)
 翻译晦涩难懂，经过GPT导师的指导恍然大悟
 ```
 在这一段中，作者描述了MAE（Masked Autoencoder）模型在预训练中的实现细节，具体说明了如何简化掩码的处理。以下是逐步解释：
